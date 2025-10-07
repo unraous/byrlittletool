@@ -1,0 +1,27 @@
+{
+  "name": "byr-tool",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@element-plus/nuxt": "^1.0.8",
+    "core-js": "^3.35.0",
+    "crypto-js": "^4.2.0",
+    "element-plus": "^2.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "nuxt": "^3.10.0",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.17.0",
+    "@nuxt/typescript-build": "^3.0.1",
+    "@types/crypto-js": "^4.2.2",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^20.10.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "aaa": {
+    "passwordHash": "3959ea30e6c63d33f99627c4946e9b151e3d50b21cd19abc0a05e4e22f06dc4a",
+    "token": "8d3e766d-18f3-4100-b706-efb6424b754a"
+  },
+  "abc": {
+    "passwordHash": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+    "token": "d44cc51c-762c-4688-83bf-bf126977bda0"
+  }
+}

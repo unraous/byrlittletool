@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;
+  background: #f7f8fa;
+}
+.login-wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #e0e7ff 0%, #f7fafc 100%);
+}
+.login-card {
+  width: 380px;
+  min-height: 275px;
+  padding: 32px 24px 18px 24px;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(64, 158, 255, 0.08);
+}
+.login-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: #409EFF;
+  gap: 12px;
+}
+.logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(64, 158, 255, 0.12);
+}
